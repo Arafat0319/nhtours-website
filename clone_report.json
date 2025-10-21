@@ -1,0 +1,38 @@
+{
+  "website": "https://www.nhtours.com",
+  "clone_time": "2025-10-19 18:38:39",
+  "duration_seconds": 16.59,
+  "statistics": {
+    "pages_downloaded": 45,
+    "images_downloaded": 0,
+    "css_downloaded": 0,
+    "js_downloaded": 0,
+    "other_files_downloaded": 0,
+    "total_size": 167409052
+  },
+  "failed_downloads": [
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.42.56â¯PM.Bmx6vzRX.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.42.30â¯PM.B57bPxlR.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.43.05â¯PM.B6BofsGZ.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.45.36â¯PM.CtTFJBmC.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.45.19â¯PM.4cMJt7XC.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.45.10â¯PM.CWc_rIwy.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.45.00â¯PM.CKDN3Cba.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.41.58â¯PM.Btjkg2ei.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.44.28â¯PM.BvK-OWcK.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.42.07â¯PM.DmOfMSW3.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.41.01â¯PM.D0JiFk90.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.44.40â¯PM.B5Qu79hg.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.41.24â¯PM.DpjPpTWJ.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.41.50â¯PM.DDGc-sYf.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.42.14â¯PM.gRUgXIN_.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.42.21â¯PM.b44vdViC.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.45.27â¯PM.DWqmhuBq.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.41.11â¯PM.BZSbWd4X.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-03 at 5.44.54â¯PM.BtZWVx5E.png",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.43.24â¯PM.65i42Yt6.png",
+    "https://www.nhtours.com/_astro/è¯ç»çº¸æ6.BQ2zZ_aq.jpg",
+    "https://www.nhtours.com/_astro/Screenshot 2025-09-05 at 12.42.43â¯PM.BLT43E5o.png"
+  ],
+  "output_directory": "C:\\Users\\Arafat\\OneDrive\\Desktop\\Project\\nhtours_clone"
+}
